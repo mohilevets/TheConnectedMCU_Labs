@@ -1,0 +1,2 @@
+Oled motion art with  RTOS task. If you change a switch3 you can stop or run increasing of square. Rectangles start grow from corners of square
+Also you can see information of next size of square
